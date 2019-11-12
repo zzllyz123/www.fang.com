@@ -14,5 +14,8 @@
 Route::get('/', function () {
     return view('welcome');
 });
+<<<<<<< HEAD
 //包含后台路由
 include base_path('routes/admin/route.php');
+=======
+>>>>>>> e3e41f9c61a3da9ab3dfedabe8064934cbc3d03e

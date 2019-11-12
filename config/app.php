@@ -69,9 +69,12 @@ return [
 
     'timezone' => 'PRC',
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> e3e41f9c61a3da9ab3dfedabe8064934cbc3d03e
     /*
     |--------------------------------------------------------------------------
     | Application Locale Configuration
@@ -109,7 +112,11 @@ return [
     |
     */
 
+<<<<<<< HEAD
     'faker_locale' => 'zh_CN',
+=======
+    'faker_locale' => 'en_US',
+>>>>>>> e3e41f9c61a3da9ab3dfedabe8064934cbc3d03e
 
     /*
     |--------------------------------------------------------------------------
